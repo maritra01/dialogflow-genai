@@ -1,0 +1,118 @@
+{
+  "intents": [ {
+    "name": "projects/true-winter-424214-p7/locations/us-central1/agents/57a68884-0076-44f5-b794-521a19493790/intents/00000000-0000-0000-0000-000000000000",
+    "displayName": "Default Welcome Intent",
+    "trainingPhrases": [ {
+      "parts": [ {
+        "text": "a good day"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hello there"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hi"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hello again"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "I greet you"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "lovely day isn't it"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hello"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "long time no see"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hey"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "greetings"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hi there"
+      } ],
+      "repeatCount": 3,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hey there"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "howdy"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "hello "
+      }, {
+        "text": "hi",
+        "parameterId": "person"
+      } ],
+      "repeatCount": 1,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "heya"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "parts": [ {
+        "text": "just going to say hi"
+      } ],
+      "repeatCount": 2,
+      "languageCode": "en"
+    }, {
+      "id": "39c2dfff-afe9-4b9a-b2ec-db7191cf16f1",
+      "parts": [ {
+        "text": "hello hi"
+      } ],
+      "repeatCount": 1,
+      "languageCode": "en"
+    } ],
+    "parameters": [ {
+      "id": "person",
+      "entityType": "projects/-/locations/-/agents/-/entityTypes/sys.person"
+    } ],
+    "priority": 500000
+  } ]
+}
